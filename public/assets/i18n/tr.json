@@ -1,0 +1,57 @@
+{
+    "flagstyle": "flag-icon-tr",
+    "dashboard": {
+        "WELCOME": "{{appName}}'a Hoşgeldiniz"
+    },
+    "search": {
+        "PLACEHOLDER": "Ara..."
+    },
+    "topbar": {
+        "messages": {
+            "MAIN": "Mesajlar",
+            "HEADER": "Okunmammış",
+            "SEEALL": "Tümünü Gör"
+        },
+
+        "activities": {
+            "MAIN": "Aktiviteler",
+            "HEADER": "Yeni Bildirilerin Var",
+            "SEEALL": "Tümünü Gör"
+        },
+        "user": {
+            "PROFILE": "Profilim",
+            "LOCKSCREEN": "Kilitle",
+            "LOGOUT": "Çıkış"
+        }
+    },
+    "sidebar": {
+        "heading": {
+            "NAVIGATION": "Ana Menü",
+            "FEATURES": "Temel Özellikler",
+            "DOCUMENTATION": "Dokümantasyon"
+        },
+        "nav": {
+            "dashboard": {
+                "MAIN": "Panel"
+            },
+            "users" :{
+                "MAIN": "Kullanıcı Yönetimi"
+            },
+            "devices":{
+                "MAIN": "Cihaz Yönetimi"
+            },
+            "mydevices":{
+                "MAIN": "Cihazlarım"
+            },
+            "pages":{
+              "USERPROFILE": "Profilim"
+            }
+        }
+    },
+    "footer": {
+        "copyright": {
+            "MAIN": "Copyright",
+            "MESSAGE": "Tüm Hakları Saklıdır"
+        }
+    }
+}
